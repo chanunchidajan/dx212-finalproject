@@ -4,12 +4,12 @@
 
 ## รายชื่อสมาชิกในทีม (Team Members)
 * **[นางสาวอลิชา พรจันทรากุล]** - รหัสนักศึกษา `[6823765133]`
-* **[นางสาวชนัญชิดา จันทร์เจริญสุข]** - รหัสนักศึกษา `[6823765133]`
+* **[นางสาวชนัญชิดา จันทร์เจริญสุข]** - รหัสนักศึกษา `[6823765232]`
 * **[นายศุภณัฐ พรมทา]** - รหัสนักศึกษา `[6823765588`
 
 ## เทคโนโลยีที่ใช้ (Tech Stack)
 * **Frontend:** React Native (Expo)
-* **Backend & Database:** Supabase (PostgreSQL)
+* **Backend & Database:** Supabase  (PostgreSQL)
 
 ## ลิงก์ทดสอบแอป (Live Preview)
 * **Expo Snack:** https://snack.expo.dev/@chanunchidajan/jatuenpaa
