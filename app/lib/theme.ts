@@ -1,0 +1,2 @@
+export const COLORS = { primary: "#8E7CC3", primaryDark: "#6E5BA6", bg: "#FDF8E8", card: "#FFFFFF", mint: "#93C47D", mintLight: "#EBF5E6", peach: "#F6B26B", peachLight: "#FFF2E2", blue: "#9FC5E8", blueLight: "#EAF3FA", purpleLight: "#F0ECF9", text: "#3D374A", muted: "#8C859B", white: "#FFFFFF", danger: "#E06666" };
+export const SPACING = { sm: 8, md: 16, lg: 20, xl: 28 };
